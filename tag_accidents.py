@@ -11,11 +11,11 @@ import os
 
 # Input filepaths
 EXP_FILEPATH = os.path.join('data', 'input', 'expeditions.csv')
-CAT_FILEPATH = os.path.join('data', 'input', 'labels.csv')
+CAT_FILEPATH = os.path.join('data', 'input', 'tags.csv')
 
 # Output filepaths
 ACCIDENT_FILEPATH = os.path.join('data', 'output', 'accident_reports.csv')
-LABELS_FILEPATH = os.path.join('data', 'input', 'labels.csv')
+TAGS_FILEPATH = os.path.join('data', 'input', 'tags.csv')
 TAGGED_ACC_FILEPATH = os.path.join('data', 'output', 'tagged_accidents.csv')
 
 # Other
@@ -41,8 +41,8 @@ pd.set_option('display.width', 1000)
 acc_df = pd.read_csv(ACCIDENT_FILEPATH)
 
 # Load labels
-lab_df = pd.read_csv(LABELS_FILEPATH)
-candidate_labels = lab_df.label.values
+tag_df = pd.read_csv(TAGS_FILEPATH)
+candidate_tags = tag_df.tag.values
 
 # Instantiate classification pipeline
 logging.getLogger("transformers").setLevel(logging.ERROR)  # Temporarily set warnings to ERROR only
@@ -52,7 +52,7 @@ classifier = pipeline("zero-shot-classification", model="facebook/bart-large-mnl
 def classify_sequence(row):
     """Function for classifying an accident description as described in row['accidents']."""
 
-    result = classifier(row['accidents'], candidate_labels, multi_label=True)
+    result = classifier(row['accidents'], candidate_tags, multi_label=True)
     filtered_labels = [(label, score) for label, score in zip(result['labels'], result['scores']) if score >= LABEL_THRESHOLD]
 
     return row['acc_id'], filtered_labels

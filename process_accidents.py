@@ -4,11 +4,11 @@ import os
 
 # Input filepaths
 EXP_FILEPATH = os.path.join('data', 'input', 'expeditions.csv')
-CAT_FILEPATH = os.path.join('data', 'input', 'labels.csv')
+CAT_FILEPATH = os.path.join('data', 'input', 'tags.csv')
 
 # Output filepaths
 ACCIDENT_FILEPATH = os.path.join('data', 'output', 'accident_reports.csv')
-LABELS_FILEPATH = os.path.join('data', 'input', 'labels.csv')
+LABELS_FILEPATH = os.path.join('data', 'input', 'tags.csv')
 TAGGED_ACC_FILEPATH = os.path.join('data', 'output', 'tagged_accidents.csv')
 
 # Other
