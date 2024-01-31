@@ -16,6 +16,13 @@ NO_PEAKS = 5  # Number of peaks to plot
 LABEL_THRESHOLD = 0.8
 ORIG_LOG_CONFIG = logging.getLogger().getEffectiveLevel()
 
+# ----------------------------------------------------------------------------------- #
+#                                   Configurations                                    #
+# ----------------------------------------------------------------------------------- #
+
+pd.set_option('display.max_columns', 500)
+pd.set_option('display.width', 1000)
+
 
 # ----------------------------------------------------------------------------------- #
 #                                 Initial Data Processing                             #

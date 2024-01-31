@@ -2,7 +2,6 @@ from concurrent.futures import ProcessPoolExecutor, as_completed
 from transformers import pipeline
 import pandas as pd
 import logging
-# import time
 import os
 
 
@@ -22,7 +21,7 @@ TAGGED_ACC_FILEPATH = os.path.join('data', 'output', 'tagged_accidents.csv')
 # Other
 NO_PEAKS = 5  # Number of peaks to plot
 GENERATE_ACCIDENTS = False
-LABEL_THRESHOLD = 0.8
+LABEL_THRESHOLD = 0.5
 ORIG_LOG_CONFIG = logging.getLogger().getEffectiveLevel()
 
 
@@ -54,7 +53,7 @@ def classify_sequence(row):
     """Function for classifying an accident description as described in row['accidents']."""
 
     result = classifier(row['accidents'], candidate_labels, multi_label=True)
-    filtered_labels = [label for label, score in zip(result['labels'], result['scores']) if score >= LABEL_THRESHOLD]
+    filtered_labels = [(label, score) for label, score in zip(result['labels'], result['scores']) if score >= LABEL_THRESHOLD]
 
     return row['acc_id'], filtered_labels
 
@@ -70,14 +69,14 @@ if __name__ == "__main__":
             futures = [executor.submit(classify_sequence, this_row) for _, this_row in df.iterrows()]
             results = [future.result() for future in as_completed(futures)]
 
-        res_df = pd.DataFrame(results, columns=['acc_id', 'tags'])
-        res_df.sort_values(by='acc_id', ascending=True, inplace=True)
+        tagged_df = pd.DataFrame(results, columns=['acc_id', 'tags'])
+        tagged_df.sort_values(by='acc_id', ascending=True, inplace=True)
 
         # Check if the file exists
         if os.path.isfile(TAGGED_ACC_FILEPATH):
-            res_df.to_csv(TAGGED_ACC_FILEPATH, mode='a', header=False, index=False)
+            tagged_df.to_csv(TAGGED_ACC_FILEPATH, mode='a', header=False, index=False)
 
         else:
-            res_df.to_csv(TAGGED_ACC_FILEPATH, index=False)
+            tagged_df.to_csv(TAGGED_ACC_FILEPATH, index=False)
 
     logging.basicConfig(level=ORIG_LOG_CONFIG)

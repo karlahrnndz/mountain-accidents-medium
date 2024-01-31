@@ -8,9 +8,9 @@ lab_id,label
 6,frostbite
 7,getting lost
 8,glacial crevasses
-9,high altitude pulmonary edema (HAPE)
+9,pulmonary edema (HAPE)
 10,high winds
-11,high-altitude cerebral edema (HACE)
+11,cerebral edema (HACE)
 12,hypothermia
 13,ice wall
 14,icefall
@@ -25,3 +25,9 @@ lab_id,label
 23,steep rock
 24,storms
 25,people falling
+26,stomach problems
+27,heart problems
+29,broken bones
+30,blood clot
+31,respiratory problems
+32, medical issues (not altitude-related)
