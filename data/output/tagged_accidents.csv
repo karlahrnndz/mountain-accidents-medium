@@ -1,4 +1,228 @@
 acc_id,tags
+1591,"['frostbite', 'extreme cold']"
+1592,"['people falling', 'inadequate preparation']"
+1593,[]
+1594,"['people falling', 'exhaustion', 'extreme cold']"
+1595,['rockfall']
+1596,['people falling']
+1597,"['frostbite', 'extreme cold', 'hypothermia']"
+1598,['avalanches']
+1599,"['frostbite', 'extreme cold']"
+1600,"['frostbite', 'extreme cold']"
+1601,"['frostbite', 'steep rock']"
+1602,"['extreme cold', 'frostbite', 'hypothermia']"
+1603,"['frostbite', 'extreme cold', 'hypothermia']"
+1604,"['lack of experience', 'inadequate preparation']"
+1605,"['frostbite', 'extreme cold', 'hypothermia']"
+1606,"['lack of experience', 'inadequate preparation']"
+1607,['frostbite']
+1608,"['lack of experience', 'lack of fitness', 'steep rock', 'extreme cold']"
+1609,"['frostbite', 'extreme cold', 'hypothermia']"
+1610,"['frostbite', 'extreme cold']"
+1611,[]
+1612,"['getting lost', 'people falling']"
+1613,['people falling']
+1614,['avalanches']
+1615,['acute mountain sickness (AMS)']
+1616,"['people falling', 'steep rock']"
+1617,['extreme cold']
+1618,['people falling']
+1619,['lack of experience']
+1620,[]
+1621,[]
+1622,"['exhaustion', 'extreme cold', 'blizzards', 'lack of fitness', 'storms', 'snowfall', 'people falling']"
+1623,"['frostbite', 'extreme cold']"
+1624,[]
+1625,"['frostbite', 'extreme cold']"
+1626,['frostbite']
+1627,[]
+1628,['people falling']
+1629,"['extreme cold', 'frostbite', 'hypothermia']"
+1630,"['frostbite', 'extreme cold', 'hypothermia']"
+1631,[]
+1632,"['lack of experience', 'inadequate preparation']"
+1633,[]
+1634,"['frostbite', 'extreme cold']"
+1635,"['extreme cold', 'frostbite', 'snowfall']"
+1636,"['avalanches', 'frostbite', 'extreme cold']"
+1637,[]
+1638,['avalanches']
+1639,['people falling']
+1640,"['frostbite', 'extreme cold']"
+1641,"['frostbite', 'extreme cold']"
+1642,[]
+1643,[]
+1644,[]
+1645,"['lack of experience', 'inadequate preparation']"
+1646,[]
+1647,[]
+1648,"['lack of experience', 'inadequate preparation']"
+1649,"['frostbite', 'extreme cold', 'steep rock']"
+1650,"['avalanches', 'high altitude pulmonary edema (HAPE)']"
+1651,['people falling']
+1652,"['frostbite', 'extreme cold', 'hypothermia']"
+1653,"['people falling', 'extreme cold', 'frostbite', 'hypothermia']"
+1654,"['extreme cold', 'frostbite', 'hypothermia']"
+1655,"['frostbite', 'extreme cold', 'hypothermia']"
+1656,[]
+1657,[]
+1658,['people falling']
+1659,"['extreme cold', 'frostbite']"
+1660,"['frostbite', 'extreme cold']"
+1661,[]
+1662,['lack of fitness']
+1663,"['extreme cold', 'frostbite', 'hypothermia']"
+1664,"['extreme cold', 'frostbite']"
+1665,"['rockfall', 'people falling', 'steep rock']"
+1666,[]
+1667,[]
+1668,['high altitude pulmonary edema (HAPE)']
+1669,"['icefall', 'extreme cold', 'people falling']"
+1670,[]
+1671,[]
+1672,"['extreme cold', 'frostbite']"
+1673,"['frostbite', 'people falling', 'extreme cold']"
+1674,"['frostbite', 'extreme cold', 'hypothermia', 'people falling']"
+1675,['getting lost']
+1676,['extreme cold']
+1677,"['people falling', 'inadequate preparation']"
+1678,['people falling']
+1679,[]
+1680,"['frostbite', 'extreme cold', 'hypothermia']"
+1457,"['extreme cold', 'people falling']"
+1458,"['frostbite', 'icefall', 'extreme cold', 'avalanches', 'people falling']"
+1459,['people falling']
+1460,"['avalanches', 'lack of experience']"
+1461,"['snowfall', 'steep rock']"
+1462,"['frostbite', 'extreme cold', 'hypothermia']"
+1463,['lack of experience']
+1464,"['frostbite', 'extreme cold']"
+1465,"['lack of experience', 'lack of fitness', 'inadequate preparation']"
+1466,['frostbite']
+1467,['avalanches']
+1468,"['avalanches', 'people falling']"
+1469,"['lack of experience', 'frostbite', 'extreme cold', 'inadequate preparation']"
+1470,['avalanches']
+1471,['avalanches']
+1472,[]
+1473,['lack of experience']
+1474,[]
+1475,['people falling']
+1476,"['frostbite', 'extreme cold']"
+1477,[]
+1478,['people falling']
+1479,['lack of fitness']
+1480,['people falling']
+1481,"['exhaustion', 'equipment failure', 'lack of fitness', 'lack of experience']"
+1482,"['frostbite', 'extreme cold', 'people falling', 'avalanches']"
+1483,"['frostbite', 'extreme cold', 'hypothermia']"
+1484,['people falling']
+1485,[]
+1486,"['people falling', 'steep rock', 'lack of experience', 'inadequate preparation']"
+1487,"['frostbite', 'extreme cold']"
+1488,[]
+1489,"['people falling', 'extreme cold', 'frostbite']"
+1490,[]
+1491,"['lack of experience', 'inadequate preparation']"
+1492,"['people falling', 'frostbite', 'extreme cold']"
+1493,['avalanches']
+1494,['exhaustion']
+1495,['avalanches']
+1496,[]
+1497,[]
+1498,"['people falling', 'glacial crevasses', 'frostbite']"
+1499,"['frostbite', 'extreme cold']"
+1500,[]
+1501,"['lack of experience', 'inadequate preparation']"
+1502,[]
+1503,"['frostbite', 'extreme cold']"
+1504,"['frostbite', 'extreme cold', 'hypothermia', 'mental stress']"
+1505,['frostbite']
+1506,"['snowfall', 'avalanches', 'lack of experience']"
+1507,"['acute mountain sickness (AMS)', 'high altitude pulmonary edema (HAPE)']"
+1508,['avalanches']
+1509,[]
+1510,"['frostbite', 'extreme cold']"
+1511,"['extreme cold', 'frostbite', 'hypothermia']"
+1512,"['people falling', 'getting lost']"
+1513,[]
+1514,['avalanches']
+1515,[]
+1516,"['people falling', 'frostbite', 'extreme cold', 'equipment failure']"
+1517,['acute mountain sickness (AMS)']
+1518,"['frostbite', 'extreme cold']"
+1519,"['frostbite', 'extreme cold']"
+1520,"['people falling', 'extreme cold']"
+1521,[]
+1522,[]
+1523,"['lack of experience', 'inadequate preparation']"
+1524,"['frostbite', 'extreme cold']"
+1525,"['inadequate preparation', 'avalanches']"
+1526,"['frostbite', 'extreme cold', 'hypothermia']"
+1527,['people falling']
+1528,"['frostbite', 'extreme cold']"
+1529,"['rockfall', 'steep rock', 'people falling']"
+1530,[]
+1531,['extreme cold']
+1532,"['people falling', 'frostbite', 'extreme cold']"
+1533,['lack of experience']
+1534,"['extreme cold', 'frostbite']"
+1535,"['people falling', 'extreme cold', 'icefall']"
+1536,[]
+1537,"['frostbite', 'extreme cold', 'hypothermia', 'icefall']"
+1538,"['extreme cold', 'frostbite', 'inadequate preparation', 'hypothermia', 'lack of fitness']"
+1539,"['extreme cold', 'frostbite']"
+1540,"['lack of experience', 'inadequate preparation']"
+1541,['high altitude pulmonary edema (HAPE)']
+1542,"['frostbite', 'extreme cold', 'hypothermia']"
+1543,[]
+1544,"['people falling', 'mental stress', 'steep rock']"
+1545,"['frostbite', 'extreme cold', 'hypothermia']"
+1546,"['frostbite', 'extreme cold']"
+1547,[]
+1548,[]
+1549,"['extreme cold', 'frostbite', 'hypothermia']"
+1550,['acute mountain sickness (AMS)']
+1551,[]
+1552,"['frostbite', 'extreme cold']"
+1553,[]
+1554,[]
+1555,[]
+1556,['people falling']
+1557,[]
+1558,['acute mountain sickness (AMS)']
+1559,"['icefall', 'extreme cold']"
+1560,[]
+1561,"['extreme cold', 'frostbite', 'inadequate preparation', 'equipment failure']"
+1562,[]
+1563,"['extreme cold', 'frostbite']"
+1564,[]
+1565,[]
+1566,[]
+1567,"['acute mountain sickness (AMS)', 'high altitude pulmonary edema (HAPE)']"
+1568,[]
+1569,[]
+1570,"['frostbite', 'extreme cold', 'steep rock']"
+1571,[]
+1572,"['people falling', 'getting lost']"
+1573,"['frostbite', 'extreme cold']"
+1574,[]
+1575,['avalanches']
+1576,['avalanches']
+1577,"['avalanches', 'people falling', 'inadequate preparation']"
+1578,"['avalanches', 'people falling']"
+1579,[]
+1580,"['people falling', 'steep rock', 'extreme cold', 'glacial crevasses']"
+1581,"['steep rock', 'people falling']"
+1582,[]
+1583,"['frostbite', 'extreme cold', 'people falling']"
+1584,"['frostbite', 'extreme cold', 'inadequate preparation', 'hypothermia']"
+1585,['people falling']
+1586,[]
+1587,"['frostbite', 'extreme cold']"
+1588,['extreme cold']
+1589,[]
+1590,"['exhaustion', 'steep rock', 'lack of fitness']"
 0,"['people falling', 'extreme cold', 'frostbite', 'exhaustion']"
 1,[]
 2,['people falling']
@@ -9,3 +233,1450 @@ acc_id,tags
 7,"['frostbite', 'extreme cold', 'hypothermia']"
 8,[]
 9,"['rockfall', 'people falling']"
+10,"['frostbite', 'extreme cold']"
+11,"['frostbite', 'extreme cold', 'snowfall']"
+12,"['acute mountain sickness (AMS)', 'high altitude pulmonary edema (HAPE)']"
+13,[]
+14,['lack of fitness']
+15,['avalanches']
+16,"['avalanches', 'lack of experience']"
+17,"['snowfall', 'extreme cold', 'blizzards']"
+18,[]
+19,"['avalanches', 'people falling', 'glacial crevasses', 'icefall', 'extreme cold', 'steep rock']"
+20,"['people falling', 'rockfall', 'equipment failure']"
+21,"['frostbite', 'extreme cold']"
+22,"['people falling', 'steep rock', 'lack of experience']"
+23,[]
+24,"['frostbite', 'extreme cold', 'hypothermia']"
+25,[]
+26,"['frostbite', 'people falling', 'extreme cold', 'hypothermia']"
+27,[]
+28,[]
+29,[]
+30,"['extreme cold', 'frostbite']"
+31,"['avalanches', 'lack of experience']"
+32,[]
+33,['people falling']
+34,[]
+35,[]
+36,[]
+37,"['avalanches', 'people falling', 'frostbite']"
+38,"['frostbite', 'extreme cold']"
+39,[]
+40,"['people falling', 'frostbite', 'extreme cold', 'hypothermia', 'mental stress']"
+41,"['frostbite', 'extreme cold']"
+42,"['frostbite', 'extreme cold']"
+43,"['frostbite', 'extreme cold']"
+44,"['extreme cold', 'high winds']"
+45,[]
+46,"['lack of fitness', 'high winds', 'exhaustion', 'lack of experience', 'extreme cold', 'steep rock', 'inadequate preparation']"
+47,"['getting lost', 'steep rock', 'people falling']"
+48,[]
+49,[]
+50,[]
+51,"['steep rock', 'acute mountain sickness (AMS)']"
+52,['acute mountain sickness (AMS)']
+53,['people falling']
+54,"['inadequate preparation', 'running out of food', 'running out of water']"
+55,"['frostbite', 'extreme cold']"
+56,[]
+57,[]
+58,['frostbite']
+59,[]
+60,"['frostbite', 'extreme cold', 'high winds']"
+61,"['avalanches', 'people falling', 'exhaustion', 'rockfall', 'steep rock']"
+62,['high winds']
+63,['high winds']
+64,"['rockfall', 'steep rock', 'people falling']"
+65,"['avalanches', 'people falling', 'steep rock']"
+66,"['avalanches', 'steep rock']"
+67,"['people falling', 'steep rock']"
+68,['people falling']
+69,"['avalanches', 'people falling']"
+70,"['frostbite', 'extreme cold', 'people falling']"
+71,['people falling']
+72,"['acute mountain sickness (AMS)', 'high altitude pulmonary edema (HAPE)', 'inadequate preparation']"
+73,"['avalanches', 'frostbite', 'extreme cold']"
+74,[]
+75,['inadequate preparation']
+76,"['frostbite', 'extreme cold']"
+77,[]
+78,"['frostbite', 'extreme cold']"
+79,"['frostbite', 'extreme cold']"
+80,['steep rock']
+81,[]
+82,"['lack of experience', 'inadequate preparation', 'getting lost']"
+83,"['avalanches', 'equipment failure', 'frostbite', 'extreme cold']"
+84,[]
+85,['people falling']
+86,"['lack of experience', 'steep rock', 'inadequate preparation', 'lack of fitness', 'people falling', 'extreme cold']"
+87,[]
+88,"['frostbite', 'extreme cold', 'hypothermia']"
+89,"['frostbite', 'extreme cold']"
+90,"['snowfall', 'inadequate preparation', 'lack of experience', 'blizzards', 'extreme cold', 'getting lost']"
+91,['people falling']
+92,[]
+93,[]
+94,[]
+95,"['people falling', 'acute mountain sickness (AMS)']"
+96,[]
+97,"['icefall', 'extreme cold', 'people falling']"
+98,['mental stress']
+99,['avalanches']
+100,"['frostbite', 'extreme cold']"
+101,"['frostbite', 'extreme cold']"
+102,"['acute mountain sickness (AMS)', 'high altitude pulmonary edema (HAPE)']"
+103,['people falling']
+104,"['frostbite', 'extreme cold']"
+105,"['frostbite', 'extreme cold', 'steep rock']"
+106,[]
+107,"['icefall', 'glacial crevasses', 'ice wall', 'extreme cold']"
+108,"['extreme cold', 'rockfall', 'frostbite', 'steep rock', 'people falling']"
+109,[]
+110,[]
+111,['frostbite']
+112,"['extreme cold', 'lack of experience', 'inadequate preparation']"
+113,"['inadequate preparation', 'lack of experience']"
+114,"['frostbite', 'people falling', 'extreme cold', 'steep rock']"
+115,"['frostbite', 'extreme cold', 'lack of experience']"
+116,"['people falling', 'rockfall', 'steep rock', 'frostbite', 'extreme cold']"
+117,"['rockfall', 'frostbite', 'extreme cold', 'steep rock']"
+118,['people falling']
+119,[]
+120,"['lack of experience', 'people falling', 'glacial crevasses', 'steep rock']"
+121,[]
+122,"['people falling', 'extreme cold']"
+123,"['frostbite', 'extreme cold', 'hypothermia']"
+124,"['frostbite', 'extreme cold', 'icefall', 'people falling']"
+125,"['icefall', 'people falling', 'extreme cold', 'ice wall', 'glacial crevasses']"
+126,"['rockfall', 'frostbite', 'steep rock', 'extreme cold', 'hypothermia']"
+127,['frostbite']
+128,[]
+129,"['frostbite', 'extreme cold']"
+130,['exhaustion']
+131,[]
+132,['avalanches']
+133,['frostbite']
+134,"['avalanches', 'snowfall']"
+135,[]
+136,['lack of experience']
+137,"['lack of experience', 'equipment failure', 'lack of fitness', 'inadequate preparation', 'high altitude pulmonary edema (HAPE)']"
+138,[]
+139,[]
+140,[]
+141,"['acute mountain sickness (AMS)', 'high altitude pulmonary edema (HAPE)']"
+142,['people falling']
+143,['steep rock']
+144,"['people falling', 'lack of fitness']"
+145,['extreme cold']
+146,"['frostbite', 'extreme cold']"
+147,['inadequate preparation']
+148,"['icefall', 'people falling', 'extreme cold']"
+149,['extreme cold']
+150,['lack of experience']
+151,[]
+152,"['steep rock', 'extreme cold', 'people falling']"
+153,"['inadequate preparation', 'lack of experience']"
+154,[]
+155,[]
+156,"['extreme cold', 'running out of water']"
+157,['acute mountain sickness (AMS)']
+158,['people falling']
+159,['extreme cold']
+160,"['extreme cold', 'frostbite', 'hypothermia']"
+161,[]
+162,[]
+163,[]
+164,"['extreme cold', 'frostbite']"
+165,[]
+166,[]
+167,[]
+168,"['frostbite', 'extreme cold']"
+169,[]
+170,['avalanches']
+171,['mental stress']
+172,"['lack of experience', 'inadequate preparation']"
+173,"['lack of experience', 'inadequate preparation']"
+174,[]
+175,"['frostbite', 'extreme cold', 'lack of fitness', 'hypothermia']"
+176,"['frostbite', 'extreme cold', 'hypothermia']"
+177,"['lack of experience', 'inadequate preparation']"
+178,[]
+179,"['lack of experience', 'inadequate preparation']"
+180,[]
+181,[]
+182,"['frostbite', 'extreme cold']"
+183,"['people falling', 'frostbite', 'extreme cold']"
+184,"['lack of experience', 'inadequate preparation']"
+185,"['avalanches', 'high winds']"
+186,[]
+187,"['people falling', 'exhaustion']"
+188,[]
+189,"['frostbite', 'extreme cold']"
+190,['steep rock']
+191,"['frostbite', 'extreme cold']"
+192,"['lack of experience', 'inadequate preparation']"
+193,"['frostbite', 'extreme cold']"
+194,"['frostbite', 'people falling', 'extreme cold']"
+195,['frostbite']
+196,"['frostbite', 'extreme cold']"
+197,['snowfall']
+198,"['extreme cold', 'frostbite']"
+199,"['frostbite', 'extreme cold']"
+200,"['frostbite', 'extreme cold']"
+201,"['extreme cold', 'frostbite']"
+202,"['frostbite', 'extreme cold', 'hypothermia', 'icefall']"
+203,[]
+204,[]
+205,['exhaustion']
+206,[]
+207,['steep rock']
+208,[]
+209,['avalanches']
+210,"['frostbite', 'extreme cold']"
+211,[]
+212,['avalanches']
+213,['steep rock']
+214,['avalanches']
+215,[]
+216,['people falling']
+217,[]
+218,['avalanches']
+219,"['lack of fitness', 'inadequate preparation', 'lack of experience']"
+220,[]
+221,[]
+222,[]
+223,"['acute mountain sickness (AMS)', 'high altitude pulmonary edema (HAPE)']"
+224,['people falling']
+225,"['people falling', 'inadequate preparation', 'glacial crevasses', 'lack of experience']"
+226,[]
+227,"['frostbite', 'extreme cold', 'people falling', 'hypothermia']"
+228,[]
+229,[]
+230,"['icefall', 'extreme cold']"
+231,"['extreme cold', 'frostbite']"
+232,[]
+233,"['rockfall', 'steep rock']"
+234,"['frostbite', 'extreme cold', 'hypothermia']"
+235,['frostbite']
+236,[]
+237,[]
+238,[]
+239,"['lack of experience', 'inadequate preparation', 'lack of fitness']"
+240,"['frostbite', 'extreme cold']"
+241,['frostbite']
+242,[]
+243,"['frostbite', 'extreme cold']"
+244,['acute mountain sickness (AMS)']
+245,[]
+246,['steep rock']
+247,"['lack of experience', 'inadequate preparation']"
+248,"['lack of experience', 'inadequate preparation']"
+249,['avalanches']
+250,"['icefall', 'avalanches', 'ice wall', 'extreme cold']"
+251,"['icefall', 'extreme cold', 'people falling', 'lack of experience']"
+252,['avalanches']
+253,"['lack of fitness', 'avalanches', 'inadequate preparation', 'lack of experience', 'exhaustion']"
+254,['people falling']
+255,"['avalanches', 'inadequate preparation']"
+256,[]
+257,[]
+258,['acute mountain sickness (AMS)']
+259,"['extreme cold', 'icefall', 'people falling', 'glacial crevasses']"
+260,"['people falling', 'lack of experience']"
+261,['avalanches']
+262,"['people falling', 'extreme cold', 'hypothermia', 'frostbite', 'inadequate preparation', 'steep rock']"
+263,"['lack of experience', 'inadequate preparation']"
+264,"['extreme cold', 'frostbite']"
+265,"['getting lost', 'lack of fitness', 'lack of experience']"
+266,[]
+267,['lack of experience']
+268,[]
+269,[]
+270,"['frostbite', 'acute mountain sickness (AMS)']"
+271,[]
+272,"['people falling', 'steep rock']"
+273,[]
+274,['people falling']
+275,"['frostbite', 'extreme cold', 'hypothermia']"
+276,[]
+277,[]
+278,[]
+279,[]
+280,['frostbite']
+281,"['people falling', 'steep rock', 'lack of fitness']"
+282,"['people falling', 'steep rock']"
+283,['avalanches']
+284,['avalanches']
+285,"['icefall', 'extreme cold', 'people falling', 'glacial crevasses', 'ice wall']"
+286,"['acute mountain sickness (AMS)', 'high altitude pulmonary edema (HAPE)']"
+287,[]
+288,[]
+289,[]
+290,['frostbite']
+291,[]
+292,[]
+293,"['avalanches', 'inadequate preparation']"
+294,"['frostbite', 'extreme cold', 'hypothermia', 'exhaustion']"
+295,"['icefall', 'extreme cold', 'people falling', 'glacial crevasses', 'ice wall']"
+296,['people falling']
+297,[]
+298,"['extreme cold', 'icefall', 'glacial crevasses', 'ice wall', 'people falling', 'hypothermia']"
+299,[]
+300,[]
+301,['frostbite']
+302,[]
+303,[]
+304,"['lack of experience', 'inadequate preparation']"
+305,[]
+306,[]
+307,[]
+308,[]
+309,[]
+310,"['frostbite', 'people falling', 'extreme cold']"
+311,"['lack of experience', 'inadequate preparation']"
+312,['people falling']
+313,[]
+314,['people falling']
+315,[]
+316,[]
+317,[]
+318,"['people falling', 'extreme cold']"
+319,['avalanches']
+320,['people falling']
+321,[]
+322,"['avalanches', 'icefall', 'extreme cold', 'inadequate preparation']"
+323,[]
+324,"['rockfall', 'steep rock']"
+325,"['people falling', 'inadequate preparation', 'lack of fitness', 'equipment failure']"
+326,"['icefall', 'extreme cold', 'people falling']"
+327,[]
+328,"['extreme cold', 'icefall', 'hypothermia', 'glacial crevasses', 'people falling', 'lack of experience']"
+329,"['getting lost', 'steep rock', 'people falling']"
+330,[]
+331,['frostbite']
+332,"['extreme cold', 'frostbite']"
+333,['exhaustion']
+334,[]
+335,[]
+336,"['snowfall', 'icefall']"
+337,[]
+338,"['frostbite', 'extreme cold']"
+339,[]
+340,"['inadequate preparation', 'lack of experience', 'lack of fitness']"
+341,"['frostbite', 'extreme cold']"
+342,"['lack of experience', 'inadequate preparation']"
+343,"['frostbite', 'people falling', 'extreme cold', 'avalanches']"
+344,"['snowfall', 'lack of experience', 'extreme cold']"
+345,"['snowfall', 'lack of experience']"
+346,['lack of fitness']
+347,[]
+348,"['rockfall', 'steep rock']"
+349,['people falling']
+350,"['snowfall', 'lack of experience', 'inadequate preparation', 'extreme cold']"
+351,"['extreme cold', 'frostbite', 'hypothermia']"
+352,[]
+353,[]
+354,[]
+355,[]
+356,[]
+357,[]
+358,"['snowfall', 'lack of experience']"
+359,['people falling']
+360,"['frostbite', 'extreme cold', 'lack of fitness']"
+361,"['frostbite', 'extreme cold', 'people falling', 'snowfall']"
+362,['extreme cold']
+363,"['icefall', 'extreme cold', 'storms', 'lack of experience']"
+364,[]
+365,[]
+366,[]
+367,"['extreme cold', 'lack of experience', 'snowfall', 'lack of fitness', 'inadequate preparation', 'getting lost']"
+368,"['inadequate preparation', 'lack of experience']"
+369,[]
+370,"['acute mountain sickness (AMS)', 'high altitude pulmonary edema (HAPE)', 'steep rock']"
+371,"['people falling', 'lack of fitness']"
+372,[]
+373,"['frostbite', 'extreme cold', 'hypothermia']"
+374,['lack of fitness']
+375,"['frostbite', 'extreme cold']"
+376,"['frostbite', 'extreme cold']"
+377,[]
+378,"['frostbite', 'extreme cold']"
+379,['people falling']
+380,"['frostbite', 'extreme cold']"
+381,"['people falling', 'steep rock']"
+382,[]
+383,"['people falling', 'extreme cold']"
+384,"['acute mountain sickness (AMS)', 'steep rock', 'high altitude pulmonary edema (HAPE)']"
+385,['equipment failure']
+386,"['lack of fitness', 'exhaustion']"
+387,"['lack of experience', 'lack of fitness']"
+388,['people falling']
+389,[]
+390,[]
+391,[]
+392,[]
+393,[]
+394,"['frostbite', 'extreme cold']"
+395,[]
+396,[]
+397,[]
+398,['lack of experience']
+399,"['rockfall', 'steep rock', 'people falling']"
+400,"['people falling', 'extreme cold', 'frostbite', 'snowfall', 'storms', 'inadequate preparation', 'blizzards']"
+401,[]
+402,[]
+403,"['frostbite', 'extreme cold']"
+404,"['frostbite', 'extreme cold', 'hypothermia']"
+405,"['extreme cold', 'hypothermia', 'frostbite']"
+406,"['people falling', 'extreme cold']"
+407,[]
+408,[]
+409,[]
+410,[]
+411,[]
+412,[]
+413,[]
+414,[]
+415,[]
+416,"['extreme cold', 'frostbite', 'hypothermia']"
+417,[]
+418,['people falling']
+419,[]
+420,"['frostbite', 'extreme cold']"
+421,['inadequate preparation']
+422,[]
+423,"['lack of fitness', 'inadequate preparation']"
+424,[]
+425,[]
+426,['people falling']
+427,"['acute mountain sickness (AMS)', 'high altitude pulmonary edema (HAPE)', 'lack of experience']"
+428,"['frostbite', 'extreme cold']"
+429,"['frostbite', 'extreme cold', 'hypothermia']"
+430,['frostbite']
+431,['people falling']
+432,['high altitude pulmonary edema (HAPE)']
+433,"['lack of experience', 'inadequate preparation', 'snowfall', 'getting lost', 'blizzards']"
+434,"['high winds', 'storms']"
+435,['lack of fitness']
+436,['people falling']
+437,['people falling']
+438,"['people falling', 'icefall', 'extreme cold']"
+439,[]
+440,"['frostbite', 'extreme cold']"
+441,"['people falling', 'exhaustion']"
+442,[]
+443,"['frostbite', 'extreme cold']"
+444,"['frostbite', 'hypothermia', 'icefall']"
+445,"['frostbite', 'extreme cold']"
+446,"['lack of experience', 'inadequate preparation', 'lack of fitness']"
+447,"['frostbite', 'extreme cold']"
+448,"['frostbite', 'extreme cold']"
+449,"['frostbite', 'extreme cold', 'hypothermia']"
+450,[]
+451,"['people falling', 'equipment failure']"
+452,[]
+453,"['frostbite', 'extreme cold', 'people falling']"
+454,['frostbite']
+455,"['acute mountain sickness (AMS)', 'high altitude pulmonary edema (HAPE)']"
+456,"['frostbite', 'inadequate preparation', 'extreme cold', 'equipment failure', 'lack of experience']"
+457,['people falling']
+458,['acute mountain sickness (AMS)']
+459,['extreme cold']
+460,['people falling']
+461,[]
+462,"['frostbite', 'extreme cold', 'hypothermia', 'icefall']"
+463,[]
+464,"['extreme cold', 'frostbite', 'lack of experience', 'snowfall', 'people falling']"
+465,['snowfall']
+466,"['extreme cold', 'frostbite']"
+467,"['extreme cold', 'frostbite', 'hypothermia']"
+468,"['extreme cold', 'frostbite']"
+469,[]
+470,"['people falling', 'steep rock']"
+471,"['snowfall', 'lack of experience', 'extreme cold', 'people falling']"
+472,"['people falling', 'steep rock']"
+473,"['extreme cold', 'frostbite', 'hypothermia']"
+474,['rockfall']
+475,['people falling']
+476,"['frostbite', 'extreme cold']"
+477,"['frostbite', 'extreme cold', 'hypothermia']"
+478,[]
+479,"['steep rock', 'rockfall', 'frostbite', 'extreme cold', 'people falling']"
+480,"['exhaustion', 'lack of fitness', 'people falling']"
+481,"['frostbite', 'extreme cold', 'hypothermia', 'lack of experience']"
+482,"['lack of experience', 'inadequate preparation']"
+483,['high-altitude cerebral edema (HACE)']
+484,"['frostbite', 'extreme cold', 'hypothermia']"
+485,[]
+486,[]
+487,['acute mountain sickness (AMS)']
+488,"['extreme cold', 'frostbite', 'hypothermia']"
+489,"['extreme cold', 'frostbite']"
+490,[]
+491,"['frostbite', 'extreme cold']"
+492,['exhaustion']
+493,"['inadequate preparation', 'lack of experience', 'snowfall', 'getting lost']"
+494,"['extreme cold', 'frostbite']"
+495,[]
+496,"['frostbite', 'extreme cold']"
+497,"['extreme cold', 'frostbite', 'hypothermia']"
+498,[]
+499,[]
+500,"['frostbite', 'extreme cold', 'hypothermia']"
+501,"['extreme cold', 'frostbite']"
+502,[]
+503,"['people falling', 'frostbite', 'extreme cold', 'hypothermia']"
+504,[]
+505,[]
+506,"['extreme cold', 'frostbite']"
+507,[]
+508,[]
+509,"['frostbite', 'extreme cold', 'hypothermia', 'lack of fitness']"
+510,"['people falling', 'icefall', 'glacial crevasses']"
+511,"['frostbite', 'extreme cold', 'hypothermia']"
+512,"['snowfall', 'people falling', 'blizzards']"
+513,[]
+514,"['equipment failure', 'people falling', 'inadequate preparation', 'icefall', 'lack of experience']"
+515,[]
+516,"['extreme cold', 'people falling']"
+517,[]
+518,[]
+519,"['frostbite', 'extreme cold']"
+520,['rockfall']
+521,[]
+522,"['icefall', 'extreme cold']"
+523,['inadequate preparation']
+524,[]
+525,[]
+526,"['people falling', 'high altitude pulmonary edema (HAPE)', 'acute mountain sickness (AMS)']"
+527,[]
+528,['people falling']
+529,[]
+530,['avalanches']
+531,"['icefall', 'extreme cold', 'people falling', 'hypothermia', 'frostbite', 'glacial crevasses']"
+532,"['icefall', 'glacial crevasses', 'people falling', 'ice wall', 'equipment failure']"
+533,"['icefall', 'people falling', 'extreme cold', 'ice wall']"
+534,['frostbite']
+535,"['people falling', 'icefall', 'ice wall', 'steep rock', 'glacial crevasses']"
+536,"['frostbite', 'extreme cold', 'hypothermia']"
+537,"['extreme cold', 'steep rock', 'hypothermia', 'frostbite']"
+538,['people falling']
+539,"['extreme cold', 'frostbite', 'hypothermia']"
+540,[]
+541,[]
+542,[]
+543,"['hypothermia', 'extreme cold']"
+544,"['frostbite', 'extreme cold']"
+545,[]
+546,"['lack of experience', 'inadequate preparation']"
+547,['people falling']
+548,"['people falling', 'lack of fitness', 'steep rock']"
+549,[]
+550,"['frostbite', 'extreme cold', 'getting lost', 'people falling', 'hypothermia']"
+551,"['extreme cold', 'frostbite', 'hypothermia']"
+552,"['extreme cold', 'frostbite']"
+553,[]
+554,[]
+555,"['frostbite', 'extreme cold', 'hypothermia']"
+556,[]
+557,"['extreme cold', 'frostbite']"
+558,['mental stress']
+559,"['people falling', 'lack of fitness']"
+560,"['extreme cold', 'frostbite']"
+561,"['lack of fitness', 'people falling']"
+562,['frostbite']
+563,"['extreme cold', 'frostbite', 'inadequate preparation', 'snowfall', 'lack of experience', 'hypothermia']"
+564,[]
+565,[]
+566,"['extreme cold', 'frostbite']"
+567,[]
+568,"['extreme cold', 'frostbite']"
+569,[]
+570,[]
+571,[]
+572,"['inadequate preparation', 'lack of experience', 'snowfall']"
+573,"['getting lost', 'lack of fitness', 'high altitude pulmonary edema (HAPE)', 'steep rock']"
+574,[]
+575,"['frostbite', 'extreme cold']"
+576,[]
+577,[]
+578,"['icefall', 'extreme cold', 'people falling']"
+579,[]
+580,[]
+581,"['people falling', 'icefall', 'extreme cold']"
+582,"['high-altitude cerebral edema (HACE)', 'lack of fitness', 'high altitude pulmonary edema (HAPE)', 'acute mountain sickness (AMS)', 'exhaustion', 'mental stress']"
+583,[]
+584,"['inadequate preparation', 'extreme cold', 'snowfall', 'lack of experience']"
+585,"['extreme cold', 'frostbite']"
+586,"['acute mountain sickness (AMS)', 'mental stress']"
+587,[]
+588,"['inadequate preparation', 'people falling', 'acute mountain sickness (AMS)', 'high altitude pulmonary edema (HAPE)']"
+589,"['frostbite', 'extreme cold']"
+590,"['lack of experience', 'inadequate preparation']"
+591,['avalanches']
+592,['avalanches']
+593,['avalanches']
+594,"['frostbite', 'extreme cold']"
+595,"['frostbite', 'extreme cold']"
+596,"['frostbite', 'extreme cold']"
+597,[]
+598,"['frostbite', 'extreme cold', 'hypothermia', 'exhaustion']"
+599,"['frostbite', 'extreme cold', 'hypothermia']"
+600,"['frostbite', 'extreme cold', 'hypothermia']"
+601,[]
+602,"['inadequate preparation', 'lack of experience', 'extreme cold', 'snowfall']"
+603,[]
+604,['people falling']
+605,"['frostbite', 'extreme cold', 'hypothermia']"
+606,"['people falling', 'steep rock']"
+607,[]
+608,[]
+609,"['acute mountain sickness (AMS)', 'steep rock', 'high altitude pulmonary edema (HAPE)']"
+610,[]
+611,"['extreme cold', 'frostbite']"
+612,[]
+613,"['frostbite', 'extreme cold', 'hypothermia']"
+614,['frostbite']
+615,"['extreme cold', 'frostbite', 'hypothermia']"
+616,['frostbite']
+617,[]
+618,[]
+619,[]
+620,"['frostbite', 'extreme cold']"
+621,"['frostbite', 'extreme cold', 'hypothermia']"
+622,"['extreme cold', 'frostbite', 'hypothermia', 'snowfall']"
+623,['people falling']
+624,[]
+625,"['snowfall', 'lack of experience', 'blizzards']"
+626,['people falling']
+627,[]
+628,"['equipment failure', 'avalanches', 'people falling']"
+629,['high-altitude cerebral edema (HACE)']
+630,"['frostbite', 'extreme cold', 'hypothermia']"
+631,[]
+632,"['frostbite', 'extreme cold', 'people falling', 'hypothermia']"
+633,"['frostbite', 'extreme cold']"
+634,[]
+635,['avalanches']
+636,"['acute mountain sickness (AMS)', 'high altitude pulmonary edema (HAPE)']"
+637,"['people falling', 'lack of fitness']"
+638,"['avalanches', 'extreme cold', 'icefall']"
+639,"['frostbite', 'extreme cold', 'hypothermia']"
+640,"['inadequate preparation', 'lack of experience', 'snowfall']"
+641,"['frostbite', 'extreme cold']"
+642,['people falling']
+643,"['frostbite', 'extreme cold']"
+644,"['frostbite', 'extreme cold']"
+645,['mental stress']
+646,"['rockfall', 'extreme cold', 'steep rock', 'frostbite']"
+647,['people falling']
+648,[]
+649,"['acute mountain sickness (AMS)', 'high altitude pulmonary edema (HAPE)']"
+650,['snowfall']
+651,[]
+652,"['frostbite', 'extreme cold', 'hypothermia']"
+653,"['lack of experience', 'inadequate preparation', 'snowfall', 'getting lost', 'blizzards']"
+654,['frostbite']
+655,"['frostbite', 'extreme cold', 'hypothermia']"
+656,[]
+657,[]
+658,"['frostbite', 'extreme cold', 'hypothermia']"
+659,"['frostbite', 'extreme cold', 'hypothermia']"
+660,"['high winds', 'inadequate preparation', 'lack of experience']"
+661,"['extreme cold', 'frostbite']"
+662,[]
+663,"['frostbite', 'extreme cold']"
+664,"['frostbite', 'extreme cold', 'inadequate preparation']"
+665,"['steep rock', 'lack of fitness', 'exhaustion', 'people falling']"
+666,['high-altitude cerebral edema (HACE)']
+667,"['high altitude pulmonary edema (HAPE)', 'acute mountain sickness (AMS)']"
+668,[]
+669,"['frostbite', 'extreme cold', 'hypothermia']"
+670,[]
+671,[]
+672,[]
+673,"['frostbite', 'extreme cold', 'hypothermia']"
+674,"['frostbite', 'extreme cold']"
+675,"['frostbite', 'extreme cold', 'hypothermia']"
+676,"['frostbite', 'extreme cold']"
+677,"['people falling', 'steep rock', 'inadequate preparation', 'extreme cold']"
+678,[]
+679,[]
+680,"['extreme cold', 'frostbite']"
+681,"['frostbite', 'extreme cold', 'hypothermia']"
+682,"['inadequate preparation', 'lack of experience', 'snowfall']"
+683,"['frostbite', 'extreme cold', 'hypothermia']"
+684,['high-altitude cerebral edema (HACE)']
+685,"['frostbite', 'extreme cold', 'hypothermia']"
+686,"['frostbite', 'extreme cold']"
+687,['acute mountain sickness (AMS)']
+688,"['frostbite', 'extreme cold']"
+689,"['frostbite', 'extreme cold']"
+690,"['extreme cold', 'frostbite', 'inadequate preparation', 'snowfall', 'hypothermia', 'lack of experience', 'getting lost', 'blizzards']"
+691,"['frostbite', 'extreme cold', 'hypothermia']"
+692,[]
+693,"['frostbite', 'extreme cold', 'hypothermia']"
+694,"['people falling', 'frostbite', 'extreme cold', 'hypothermia', 'snowfall']"
+695,[]
+696,[]
+697,"['acute mountain sickness (AMS)', 'exhaustion']"
+698,"['acute mountain sickness (AMS)', 'mental stress', 'steep rock']"
+699,"['people falling', 'steep rock']"
+700,"['frostbite', 'extreme cold', 'hypothermia']"
+701,"['frostbite', 'extreme cold', 'snowfall']"
+702,[]
+703,"['frostbite', 'extreme cold', 'hypothermia']"
+704,"['people falling', 'snowfall', 'inadequate preparation', 'getting lost']"
+705,"['extreme cold', 'steep rock', 'glacial crevasses', 'people falling']"
+706,"['icefall', 'people falling']"
+707,['steep rock']
+708,[]
+709,['lack of experience']
+710,['acute mountain sickness (AMS)']
+711,"['frostbite', 'extreme cold', 'hypothermia']"
+712,['people falling']
+713,"['steep rock', 'lack of experience']"
+714,"['people falling', 'steep rock']"
+715,[]
+716,[]
+717,['inadequate preparation']
+718,"['people falling', 'steep rock', 'rockfall']"
+719,[]
+720,"['frostbite', 'extreme cold']"
+721,[]
+722,[]
+723,[]
+724,"['inadequate preparation', 'frostbite', 'lack of fitness', 'extreme cold', 'lack of experience']"
+725,['frostbite']
+726,[]
+727,"['frostbite', 'extreme cold']"
+728,[]
+729,"['frostbite', 'extreme cold', 'hypothermia']"
+730,['frostbite']
+731,[]
+732,['acute mountain sickness (AMS)']
+733,['frostbite']
+734,"['frostbite', 'extreme cold']"
+735,[]
+736,"['frostbite', 'exhaustion', 'extreme cold']"
+737,[]
+738,[]
+739,[]
+740,[]
+741,[]
+742,"['frostbite', 'extreme cold']"
+743,"['steep rock', 'people falling']"
+744,[]
+745,"['lack of fitness', 'extreme cold', 'getting lost']"
+746,"['lack of experience', 'lack of fitness']"
+747,[]
+748,[]
+749,"['lack of experience', 'inadequate preparation']"
+750,"['rockfall', 'people falling', 'steep rock']"
+751,"['people falling', 'steep rock']"
+752,[]
+753,[]
+754,[]
+755,[]
+756,"['inadequate preparation', 'people falling']"
+757,[]
+758,[]
+759,"['frostbite', 'extreme cold']"
+760,[]
+761,"['frostbite', 'extreme cold']"
+762,['people falling']
+763,['people falling']
+764,[]
+765,[]
+766,[]
+767,[]
+768,['exhaustion']
+769,[]
+770,['lack of fitness']
+771,[]
+772,[]
+773,['high altitude pulmonary edema (HAPE)']
+774,[]
+775,[]
+776,"['frostbite', 'extreme cold', 'hypothermia']"
+777,[]
+778,[]
+779,['high-altitude cerebral edema (HACE)']
+780,[]
+781,"['frostbite', 'extreme cold']"
+782,"['frostbite', 'extreme cold', 'snowfall']"
+783,[]
+784,[]
+785,[]
+786,[]
+787,[]
+788,[]
+789,"['people falling', 'steep rock', 'frostbite', 'extreme cold']"
+790,[]
+791,[]
+792,"['mental stress', 'lack of experience', 'inadequate preparation']"
+793,"['lack of experience', 'inadequate preparation']"
+794,"['lack of experience', 'inadequate preparation']"
+795,[]
+796,[]
+797,"['frostbite', 'extreme cold', 'hypothermia']"
+798,['acute mountain sickness (AMS)']
+799,['steep rock']
+800,"['lack of experience', 'inadequate preparation']"
+801,"['lack of experience', 'inadequate preparation']"
+802,[]
+803,[]
+804,[]
+805,[]
+806,['lack of experience']
+807,[]
+808,"['frostbite', 'extreme cold', 'hypothermia', 'icefall']"
+809,[]
+810,[]
+811,[]
+812,[]
+813,"['high altitude pulmonary edema (HAPE)', 'acute mountain sickness (AMS)']"
+814,"['people falling', 'frostbite', 'extreme cold']"
+815,"['frostbite', 'extreme cold']"
+816,"['snowfall', 'equipment failure', 'people falling']"
+817,[]
+818,"['lack of experience', 'inadequate preparation']"
+819,['lack of fitness']
+820,"['lack of fitness', 'people falling', 'exhaustion', 'mental stress']"
+821,['frostbite']
+822,[]
+823,[]
+824,[]
+825,[]
+826,"['people falling', 'getting lost', 'steep rock']"
+827,"['lack of experience', 'inadequate preparation']"
+828,"['lack of experience', 'inadequate preparation']"
+829,[]
+830,"['lack of experience', 'inadequate preparation']"
+831,[]
+832,[]
+833,[]
+834,[]
+835,['people falling']
+836,['acute mountain sickness (AMS)']
+837,[]
+838,['getting lost']
+839,"['lack of experience', 'inadequate preparation']"
+840,['lack of experience']
+841,['frostbite']
+842,"['inadequate preparation', 'lack of fitness', 'lack of experience']"
+843,"['frostbite', 'extreme cold']"
+844,[]
+845,[]
+846,[]
+847,"['lack of experience', 'lack of fitness', 'inadequate preparation']"
+848,[]
+849,['extreme cold']
+850,"['frostbite', 'extreme cold']"
+851,['lack of fitness']
+852,"['people falling', 'rockfall']"
+853,[]
+854,"['lack of experience', 'inadequate preparation', 'lack of fitness']"
+855,['lack of experience']
+856,"['acute mountain sickness (AMS)', 'steep rock', 'high altitude pulmonary edema (HAPE)']"
+857,"['lack of experience', 'extreme cold', 'snowfall', 'inadequate preparation', 'getting lost', 'lack of fitness']"
+858,"['acute mountain sickness (AMS)', 'high altitude pulmonary edema (HAPE)']"
+859,[]
+860,[]
+861,[]
+862,[]
+863,[]
+864,[]
+865,[]
+866,"['frostbite', 'extreme cold']"
+867,['lack of fitness']
+868,"['frostbite', 'extreme cold']"
+869,[]
+870,"['lack of experience', 'inadequate preparation']"
+871,[]
+872,[]
+873,"['frostbite', 'extreme cold']"
+874,[]
+875,[]
+876,[]
+877,"['frostbite', 'extreme cold']"
+878,[]
+879,"['lack of experience', 'inadequate preparation']"
+880,[]
+881,[]
+882,[]
+883,[]
+884,[]
+885,"['frostbite', 'extreme cold']"
+886,[]
+887,[]
+888,"['lack of experience', 'inadequate preparation']"
+889,[]
+890,[]
+891,"['people falling', 'steep rock', 'rockfall']"
+892,[]
+893,['exhaustion']
+894,[]
+895,[]
+896,[]
+897,"['frostbite', 'extreme cold', 'hypothermia']"
+898,['frostbite']
+899,[]
+900,[]
+901,"['frostbite', 'extreme cold']"
+902,"['frostbite', 'extreme cold']"
+903,['frostbite']
+904,[]
+905,['extreme cold']
+906,"['people falling', 'lack of fitness']"
+907,"['extreme cold', 'hypothermia']"
+908,"['people falling', 'steep rock', 'acute mountain sickness (AMS)']"
+909,[]
+910,[]
+911,"['frostbite', 'extreme cold', 'hypothermia']"
+912,[]
+913,"['extreme cold', 'frostbite', 'hypothermia']"
+914,[]
+915,['snowfall']
+916,"['frostbite', 'extreme cold']"
+917,"['frostbite', 'extreme cold', 'hypothermia']"
+918,[]
+919,[]
+920,"['extreme cold', 'frostbite', 'hypothermia']"
+921,"['extreme cold', 'frostbite']"
+922,['steep rock']
+923,[]
+924,[]
+925,"['frostbite', 'extreme cold']"
+926,"['frostbite', 'extreme cold']"
+927,[]
+928,"['avalanches', 'inadequate preparation']"
+929,"['avalanches', 'inadequate preparation']"
+930,"['frostbite', 'extreme cold']"
+931,[]
+932,"['inadequate preparation', 'frostbite', 'equipment failure', 'extreme cold']"
+933,[]
+934,[]
+935,[]
+936,[]
+937,[]
+938,"['extreme cold', 'frostbite', 'hypothermia']"
+939,[]
+940,"['frostbite', 'extreme cold']"
+941,['mental stress']
+942,"['frostbite', 'extreme cold', 'hypothermia']"
+943,"['frostbite', 'extreme cold']"
+944,[]
+945,"['frostbite', 'extreme cold', 'hypothermia']"
+946,[]
+947,"['frostbite', 'extreme cold', 'hypothermia']"
+948,[]
+949,"['inadequate preparation', 'people falling']"
+950,[]
+951,"['people falling', 'inadequate preparation']"
+952,[]
+953,[]
+954,[]
+955,[]
+956,[]
+957,[]
+958,[]
+959,"['frostbite', 'acute mountain sickness (AMS)']"
+960,['mental stress']
+961,['mental stress']
+962,"['frostbite', 'extreme cold']"
+963,[]
+964,[]
+965,"['acute mountain sickness (AMS)', 'lack of experience']"
+966,[]
+967,[]
+968,[]
+969,[]
+970,"['people falling', 'steep rock']"
+971,[]
+972,['getting lost']
+973,['acute mountain sickness (AMS)']
+974,['frostbite']
+975,"['acute mountain sickness (AMS)', 'people falling']"
+976,"['rockfall', 'steep rock']"
+977,"['people falling', 'icefall']"
+978,[]
+979,[]
+980,[]
+981,['acute mountain sickness (AMS)']
+982,[]
+983,['acute mountain sickness (AMS)']
+984,"['high altitude pulmonary edema (HAPE)', 'acute mountain sickness (AMS)']"
+985,['people falling']
+986,[]
+987,['acute mountain sickness (AMS)']
+988,"['frostbite', 'extreme cold', 'hypothermia']"
+989,"['frostbite', 'extreme cold', 'hypothermia']"
+990,"['frostbite', 'extreme cold', 'hypothermia']"
+991,[]
+992,"['frostbite', 'extreme cold', 'hypothermia']"
+993,['frostbite']
+994,"['frostbite', 'extreme cold', 'hypothermia']"
+995,"['extreme cold', 'frostbite', 'hypothermia']"
+996,"['frostbite', 'extreme cold']"
+997,"['extreme cold', 'frostbite', 'people falling', 'hypothermia']"
+998,['high altitude pulmonary edema (HAPE)']
+999,['people falling']
+1000,"['rockfall', 'people falling', 'steep rock']"
+1001,[]
+1002,"['frostbite', 'extreme cold']"
+1003,['frostbite']
+1004,"['equipment failure', 'snowfall', 'people falling']"
+1005,"['frostbite', 'extreme cold', 'hypothermia']"
+1006,"['frostbite', 'extreme cold', 'hypothermia']"
+1007,[]
+1008,"['getting lost', 'acute mountain sickness (AMS)', 'lack of experience', 'equipment failure', 'running out of food', 'running out of water']"
+1009,['frostbite']
+1010,"['frostbite', 'extreme cold']"
+1011,[]
+1012,[]
+1013,[]
+1014,['avalanches']
+1015,"['frostbite', 'inadequate preparation']"
+1016,"['extreme cold', 'frostbite', 'acute mountain sickness (AMS)']"
+1017,['lack of fitness']
+1018,"['frostbite', 'extreme cold', 'hypothermia']"
+1019,"['frostbite', 'extreme cold']"
+1020,"['getting lost', 'inadequate preparation', 'lack of experience']"
+1021,[]
+1022,['extreme cold']
+1023,['inadequate preparation']
+1024,['avalanches']
+1025,"['frostbite', 'extreme cold', 'people falling']"
+1026,"['people falling', 'steep rock']"
+1027,"['high altitude pulmonary edema (HAPE)', 'acute mountain sickness (AMS)']"
+1028,[]
+1029,[]
+1030,[]
+1031,"['extreme cold', 'frostbite', 'acute mountain sickness (AMS)']"
+1032,[]
+1033,"['frostbite', 'extreme cold']"
+1034,"['frostbite', 'extreme cold']"
+1035,"['people falling', 'rockfall', 'inadequate preparation']"
+1036,[]
+1037,"['frostbite', 'extreme cold']"
+1038,[]
+1039,"['frostbite', 'extreme cold']"
+1040,"['acute mountain sickness (AMS)', 'high altitude pulmonary edema (HAPE)']"
+1041,['lack of experience']
+1042,[]
+1043,"['frostbite', 'extreme cold']"
+1044,[]
+1045,"['frostbite', 'extreme cold']"
+1046,"['lack of fitness', 'inadequate preparation', 'acute mountain sickness (AMS)', 'lack of experience', 'exhaustion']"
+1047,"['snowfall', 'frostbite', 'extreme cold', 'hypothermia', 'people falling', 'inadequate preparation', 'lack of experience']"
+1048,[]
+1049,"['people falling', 'lack of experience']"
+1050,"['frostbite', 'extreme cold']"
+1051,[]
+1052,['frostbite']
+1053,"['extreme cold', 'frostbite', 'inadequate preparation']"
+1054,"['people falling', 'frostbite']"
+1055,[]
+1056,"['lack of experience', 'lack of fitness', 'inadequate preparation']"
+1057,"['people falling', 'lack of fitness']"
+1058,['frostbite']
+1059,"['frostbite', 'extreme cold']"
+1060,"['frostbite', 'extreme cold', 'hypothermia']"
+1061,"['extreme cold', 'frostbite']"
+1062,"['frostbite', 'extreme cold']"
+1063,[]
+1064,['extreme cold']
+1065,"['rockfall', 'people falling', 'steep rock', 'frostbite']"
+1066,"['frostbite', 'extreme cold', 'rockfall']"
+1067,"['lack of fitness', 'lack of experience', 'inadequate preparation', 'steep rock']"
+1068,"['inadequate preparation', 'lack of experience']"
+1069,['lack of experience']
+1070,['high altitude pulmonary edema (HAPE)']
+1071,['acute mountain sickness (AMS)']
+1072,['lack of experience']
+1073,"['lack of experience', 'lack of fitness']"
+1074,[]
+1075,"['frostbite', 'extreme cold']"
+1076,[]
+1077,"['extreme cold', 'people falling', 'frostbite']"
+1078,"['frostbite', 'extreme cold', 'hypothermia']"
+1079,[]
+1080,"['frostbite', 'extreme cold']"
+1081,"['extreme cold', 'high altitude pulmonary edema (HAPE)']"
+1082,[]
+1083,['lack of experience']
+1084,"['frostbite', 'extreme cold']"
+1085,"['frostbite', 'lack of experience', 'extreme cold']"
+1086,"['avalanches', 'snowfall', 'blizzards']"
+1087,[]
+1088,[]
+1089,[]
+1090,[]
+1091,[]
+1092,[]
+1093,"['frostbite', 'extreme cold']"
+1094,"['frostbite', 'extreme cold', 'hypothermia']"
+1095,['frostbite']
+1096,['frostbite']
+1097,"['frostbite', 'extreme cold']"
+1098,"['high altitude pulmonary edema (HAPE)', 'acute mountain sickness (AMS)']"
+1099,[]
+1100,['extreme cold']
+1101,[]
+1102,[]
+1103,"['frostbite', 'extreme cold', 'people falling']"
+1104,"['acute mountain sickness (AMS)', 'high altitude pulmonary edema (HAPE)']"
+1105,"['inadequate preparation', 'lack of experience', 'extreme cold', 'lack of fitness']"
+1106,[]
+1107,['lack of experience']
+1108,['mental stress']
+1109,[]
+1110,[]
+1111,"['extreme cold', 'frostbite']"
+1112,[]
+1113,[]
+1114,"['lack of experience', 'inadequate preparation']"
+1115,"['extreme cold', 'frostbite', 'steep rock']"
+1116,"['frostbite', 'extreme cold']"
+1117,[]
+1118,[]
+1119,"['lack of experience', 'inadequate preparation']"
+1120,[]
+1121,"['acute mountain sickness (AMS)', 'lack of fitness', 'steep rock']"
+1122,"['lack of experience', 'inadequate preparation']"
+1123,[]
+1124,"['extreme cold', 'frostbite']"
+1125,"['lack of fitness', 'lack of experience', 'people falling']"
+1126,"['frostbite', 'extreme cold', 'hypothermia']"
+1127,[]
+1128,"['inadequate preparation', 'lack of experience', 'lack of fitness']"
+1129,"['frostbite', 'hypothermia']"
+1130,"['frostbite', 'extreme cold']"
+1131,[]
+1132,[]
+1133,"['frostbite', 'extreme cold', 'lack of experience']"
+1134,[]
+1135,"['frostbite', 'extreme cold']"
+1136,['lack of experience']
+1137,"['exhaustion', 'lack of fitness', 'mental stress']"
+1138,['storms']
+1139,[]
+1140,[]
+1141,"['lack of fitness', 'exhaustion']"
+1142,[]
+1143,['extreme cold']
+1144,[]
+1145,"['extreme cold', 'frostbite']"
+1146,"['frostbite', 'extreme cold']"
+1147,"['extreme cold', 'frostbite']"
+1148,[]
+1149,['high altitude pulmonary edema (HAPE)']
+1150,[]
+1151,[]
+1152,"['lack of experience', 'inadequate preparation']"
+1153,"['frostbite', 'extreme cold', 'hypothermia']"
+1154,"['lack of experience', 'inadequate preparation']"
+1155,"['lack of experience', 'inadequate preparation']"
+1156,"['frostbite', 'extreme cold', 'lack of experience', 'lack of fitness', 'inadequate preparation']"
+1157,[]
+1158,"['lack of experience', 'inadequate preparation']"
+1159,['exhaustion']
+1160,"['frostbite', 'extreme cold', 'hypothermia']"
+1161,"['lack of experience', 'inadequate preparation']"
+1162,"['lack of experience', 'inadequate preparation']"
+1163,['high-altitude cerebral edema (HACE)']
+1164,['frostbite']
+1165,['frostbite']
+1166,"['frostbite', 'extreme cold']"
+1167,[]
+1168,"['frostbite', 'extreme cold']"
+1169,"['lack of experience', 'inadequate preparation']"
+1170,['acute mountain sickness (AMS)']
+1171,"['frostbite', 'extreme cold']"
+1172,"['extreme cold', 'frostbite', 'hypothermia']"
+1173,"['lack of fitness', 'acute mountain sickness (AMS)', 'high altitude pulmonary edema (HAPE)', 'exhaustion']"
+1174,['frostbite']
+1175,[]
+1176,"['lack of experience', 'inadequate preparation']"
+1177,"['frostbite', 'inadequate preparation']"
+1178,"['lack of experience', 'inadequate preparation']"
+1179,['lack of fitness']
+1180,"['frostbite', 'extreme cold']"
+1181,[]
+1182,[]
+1183,"['frostbite', 'extreme cold', 'hypothermia']"
+1184,['frostbite']
+1185,[]
+1186,"['extreme cold', 'frostbite']"
+1187,"['high altitude pulmonary edema (HAPE)', 'acute mountain sickness (AMS)']"
+1188,"['frostbite', 'extreme cold']"
+1189,['acute mountain sickness (AMS)']
+1190,[]
+1191,[]
+1192,[]
+1193,"['frostbite', 'extreme cold', 'hypothermia']"
+1194,[]
+1195,[]
+1196,"['frostbite', 'extreme cold']"
+1197,[]
+1198,[]
+1199,[]
+1200,['inadequate preparation']
+1201,"['frostbite', 'extreme cold']"
+1202,[]
+1203,"['lack of experience', 'inadequate preparation']"
+1204,[]
+1205,['people falling']
+1206,[]
+1207,['avalanches']
+1208,"['frostbite', 'extreme cold', 'glacial crevasses']"
+1209,"['frostbite', 'extreme cold']"
+1210,"['lack of experience', 'inadequate preparation']"
+1211,[]
+1212,[]
+1213,"['lack of experience', 'inadequate preparation']"
+1214,[]
+1215,"['frostbite', 'extreme cold']"
+1216,[]
+1217,[]
+1218,[]
+1219,"['lack of experience', 'inadequate preparation']"
+1220,[]
+1221,"['frostbite', 'extreme cold', 'hypothermia']"
+1222,"['lack of experience', 'people falling', 'steep rock']"
+1223,"['extreme cold', 'frostbite', 'people falling']"
+1224,"['lack of experience', 'inadequate preparation', 'snowfall', 'getting lost', 'extreme cold', 'lack of fitness']"
+1225,"['frostbite', 'extreme cold', 'exhaustion']"
+1226,['acute mountain sickness (AMS)']
+1227,"['frostbite', 'extreme cold', 'hypothermia']"
+1228,"['extreme cold', 'frostbite']"
+1229,"['lack of experience', 'inadequate preparation']"
+1230,"['frostbite', 'extreme cold']"
+1231,"['frostbite', 'extreme cold', 'hypothermia']"
+1232,"['frostbite', 'extreme cold', 'steep rock', 'lack of experience', 'getting lost', 'hypothermia']"
+1233,['avalanches']
+1234,['avalanches']
+1235,[]
+1236,[]
+1237,"['lack of experience', 'extreme cold']"
+1238,"['frostbite', 'extreme cold', 'hypothermia']"
+1239,[]
+1240,"['frostbite', 'extreme cold']"
+1241,['high-altitude cerebral edema (HACE)']
+1242,[]
+1243,['acute mountain sickness (AMS)']
+1244,['acute mountain sickness (AMS)']
+1245,[]
+1246,"['frostbite', 'extreme cold', 'lack of fitness']"
+1247,"['acute mountain sickness (AMS)', 'high altitude pulmonary edema (HAPE)']"
+1248,[]
+1249,[]
+1250,['lack of fitness']
+1251,[]
+1252,"['rockfall', 'steep rock']"
+1253,"['frostbite', 'extreme cold']"
+1254,[]
+1255,[]
+1256,['acute mountain sickness (AMS)']
+1257,"['frostbite', 'extreme cold']"
+1258,[]
+1259,"['frostbite', 'extreme cold']"
+1260,[]
+1261,[]
+1262,"['lack of experience', 'inadequate preparation']"
+1263,[]
+1264,[]
+1265,[]
+1266,[]
+1267,['exhaustion']
+1268,[]
+1269,"['frostbite', 'extreme cold']"
+1270,"['frostbite', 'extreme cold']"
+1271,['frostbite']
+1272,['frostbite']
+1273,[]
+1274,[]
+1275,[]
+1276,[]
+1277,['people falling']
+1278,"['lack of fitness', 'exhaustion']"
+1279,[]
+1280,"['lack of experience', 'inadequate preparation']"
+1281,['lack of fitness']
+1282,[]
+1283,[]
+1284,['acute mountain sickness (AMS)']
+1285,"['frostbite', 'extreme cold', 'inadequate preparation']"
+1286,[]
+1287,[]
+1288,['frostbite']
+1289,['high altitude pulmonary edema (HAPE)']
+1290,['high altitude pulmonary edema (HAPE)']
+1291,[]
+1292,['high altitude pulmonary edema (HAPE)']
+1293,[]
+1294,['people falling']
+1295,[]
+1296,"['frostbite', 'extreme cold', 'steep rock']"
+1297,[]
+1298,"['extreme cold', 'high-altitude cerebral edema (HACE)']"
+1299,"['frostbite', 'extreme cold']"
+1300,"['frostbite', 'extreme cold']"
+1301,"['extreme cold', 'hypothermia']"
+1302,[]
+1303,"['getting lost', 'lack of fitness']"
+1304,[]
+1305,['lack of experience']
+1306,"['frostbite', 'extreme cold']"
+1307,['frostbite']
+1308,[]
+1309,['people falling']
+1310,[]
+1311,[]
+1312,"['extreme cold', 'frostbite']"
+1313,[]
+1314,"['acute mountain sickness (AMS)', 'high altitude pulmonary edema (HAPE)']"
+1315,[]
+1316,"['extreme cold', 'frostbite']"
+1317,[]
+1318,"['frostbite', 'extreme cold', 'equipment failure']"
+1319,[]
+1320,"['frostbite', 'extreme cold']"
+1321,"['lack of experience', 'inadequate preparation']"
+1322,"['frostbite', 'extreme cold']"
+1323,['rockfall']
+1324,[]
+1325,[]
+1326,[]
+1327,['inadequate preparation']
+1328,[]
+1329,[]
+1330,['extreme cold']
+1331,[]
+1332,"['snowfall', 'extreme cold']"
+1333,[]
+1334,[]
+1335,[]
+1336,['getting lost']
+1337,"['frostbite', 'extreme cold', 'hypothermia']"
+1338,"['acute mountain sickness (AMS)', 'inadequate preparation']"
+1339,[]
+1340,[]
+1341,"['extreme cold', 'frostbite']"
+1342,['equipment failure']
+1343,"['exhaustion', 'people falling', 'lack of fitness']"
+1344,[]
+1345,"['frostbite', 'extreme cold', 'hypothermia']"
+1346,[]
+1347,"['rockfall', 'people falling']"
+1348,['high altitude pulmonary edema (HAPE)']
+1349,"['extreme cold', 'frostbite']"
+1350,[]
+1351,[]
+1352,[]
+1353,"['frostbite', 'extreme cold']"
+1354,[]
+1355,[]
+1356,"['steep rock', 'inadequate preparation', 'acute mountain sickness (AMS)']"
+1357,"['frostbite', 'extreme cold']"
+1358,"['frostbite', 'extreme cold']"
+1359,[]
+1360,['people falling']
+1361,"['high altitude pulmonary edema (HAPE)', 'acute mountain sickness (AMS)']"
+1362,"['getting lost', 'exhaustion', 'people falling', 'lack of fitness', 'lack of experience', 'mental stress']"
+1363,"['extreme cold', 'frostbite']"
+1364,[]
+1365,"['frostbite', 'extreme cold']"
+1366,['people falling']
+1367,"['frostbite', 'extreme cold']"
+1368,[]
+1369,"['lack of experience', 'inadequate preparation']"
+1370,[]
+1371,[]
+1372,[]
+1373,"['frostbite', 'extreme cold', 'hypothermia']"
+1374,"['frostbite', 'extreme cold', 'hypothermia']"
+1375,"['frostbite', 'extreme cold']"
+1376,[]
+1377,[]
+1378,[]
+1379,"['frostbite', 'people falling', 'extreme cold']"
+1380,"['frostbite', 'extreme cold', 'hypothermia']"
+1381,['people falling']
+1382,"['lack of experience', 'inadequate preparation']"
+1383,[]
+1384,"['lack of experience', 'inadequate preparation', 'lack of fitness']"
+1385,['mental stress']
+1386,"['extreme cold', 'frostbite']"
+1387,"['getting lost', 'lack of fitness']"
+1388,"['inadequate preparation', 'lack of experience']"
+1389,"['frostbite', 'extreme cold']"
+1390,"['frostbite', 'extreme cold']"
+1391,"['high altitude pulmonary edema (HAPE)', 'acute mountain sickness (AMS)']"
+1392,"['frostbite', 'extreme cold']"
+1393,"['frostbite', 'extreme cold']"
+1394,['frostbite']
+1395,['mental stress']
+1396,"['frostbite', 'extreme cold']"
+1397,"['extreme cold', 'inadequate preparation']"
+1398,[]
+1399,"['lack of fitness', 'high altitude pulmonary edema (HAPE)']"
+1400,[]
+1401,[]
+1402,[]
+1403,"['snowfall', 'storms', 'blizzards', 'extreme cold']"
+1404,[]
+1405,"['frostbite', 'extreme cold']"
+1406,['people falling']
+1407,[]
+1408,['acute mountain sickness (AMS)']
+1409,[]
+1410,"['frostbite', 'extreme cold', 'hypothermia']"
+1411,"['acute mountain sickness (AMS)', 'high altitude pulmonary edema (HAPE)']"
+1412,"['frostbite', 'extreme cold']"
+1413,"['frostbite', 'extreme cold', 'hypothermia']"
+1414,"['frostbite', 'extreme cold', 'hypothermia']"
+1415,"['extreme cold', 'frostbite', 'people falling']"
+1416,[]
+1417,[]
+1418,[]
+1419,"['frostbite', 'extreme cold', 'hypothermia']"
+1420,"['frostbite', 'extreme cold', 'hypothermia']"
+1421,['steep rock']
+1422,[]
+1423,"['lack of experience', 'high altitude pulmonary edema (HAPE)']"
+1424,[]
+1425,"['frostbite', 'extreme cold']"
+1426,[]
+1427,"['steep rock', 'mental stress']"
+1428,"['people falling', 'lack of fitness', 'inadequate preparation', 'lack of experience']"
+1429,[]
+1430,"['acute mountain sickness (AMS)', 'lack of fitness', 'getting lost', 'steep rock', 'mental stress', 'lack of experience']"
+1431,['avalanches']
+1432,[]
+1433,[]
+1434,[]
+1435,['acute mountain sickness (AMS)']
+1436,[]
+1437,"['people falling', 'high altitude pulmonary edema (HAPE)', 'acute mountain sickness (AMS)']"
+1438,[]
+1439,[]
+1440,"['frostbite', 'extreme cold', 'hypothermia']"
+1441,"['frostbite', 'extreme cold', 'hypothermia']"
+1442,[]
+1443,"['extreme cold', 'frostbite']"
+1444,['avalanches']
+1445,"['high altitude pulmonary edema (HAPE)', 'acute mountain sickness (AMS)']"
+1446,"['frostbite', 'extreme cold', 'hypothermia']"
+1447,"['frostbite', 'extreme cold']"
+1448,['exhaustion']
+1449,"['frostbite', 'extreme cold', 'hypothermia']"
+1450,"['acute mountain sickness (AMS)', 'mental stress']"
+1451,"['frostbite', 'extreme cold']"
+1452,[]
+1453,[]
+1454,"['frostbite', 'extreme cold']"
+1455,[]
+1456,[]

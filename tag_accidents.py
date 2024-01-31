@@ -2,7 +2,7 @@ from concurrent.futures import ProcessPoolExecutor, as_completed
 from transformers import pipeline
 import pandas as pd
 import logging
-import time
+# import time
 import os
 
 
@@ -61,13 +61,23 @@ def classify_sequence(row):
 
 if __name__ == "__main__":
 
-    num_workers = 6
-    with ProcessPoolExecutor(max_workers=num_workers) as executor:
-        futures = [executor.submit(classify_sequence, this_row) for _, this_row in acc_df.iloc[:10].iterrows()]
-        results = [future.result() for future in as_completed(futures)]
+    for peakid in acc_df.peakid.unique():
+        df = acc_df.query(f"peakid == '{peakid}'")
+        print(f"Working on peakid = '{peakid}'")
 
-    res_df = pd.DataFrame(results, columns=['acc_id', 'tags'])
-    res_df.sort_values(by='acc_id', ascending=True, inplace=True)
-    res_df.to_csv(TAGGED_ACC_FILEPATH, index=False)
+        num_workers = 6
+        with ProcessPoolExecutor(max_workers=num_workers) as executor:
+            futures = [executor.submit(classify_sequence, this_row) for _, this_row in df.iterrows()]
+            results = [future.result() for future in as_completed(futures)]
+
+        res_df = pd.DataFrame(results, columns=['acc_id', 'tags'])
+        res_df.sort_values(by='acc_id', ascending=True, inplace=True)
+
+        # Check if the file exists
+        if os.path.isfile(TAGGED_ACC_FILEPATH):
+            res_df.to_csv(TAGGED_ACC_FILEPATH, mode='a', header=False, index=False)
+
+        else:
+            res_df.to_csv(TAGGED_ACC_FILEPATH, index=False)
 
     logging.basicConfig(level=ORIG_LOG_CONFIG)
