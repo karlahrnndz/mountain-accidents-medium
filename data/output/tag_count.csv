@@ -1,0 +1,51 @@
+new_tag,peakid,count
+extreme cold,AMAD,70
+extreme cold,CHOY,146
+extreme cold,EVER,255
+extreme cold,LHOT,38
+extreme cold,MANA,49
+frostbite,AMAD,69
+frostbite,CHOY,144
+frostbite,EVER,209
+frostbite,LHOT,34
+frostbite,MANA,41
+medical issues (not altitude-related),AMAD,86
+medical issues (not altitude-related),CHOY,106
+medical issues (not altitude-related),EVER,183
+medical issues (not altitude-related),LHOT,26
+medical issues (not altitude-related),MANA,17
+respiratory problems,AMAD,75
+respiratory problems,CHOY,106
+respiratory problems,EVER,146
+respiratory problems,LHOT,10
+respiratory problems,MANA,18
+people falling,AMAD,33
+people falling,CHOY,38
+people falling,EVER,151
+people falling,LHOT,19
+people falling,MANA,35
+lack of experience,AMAD,32
+lack of experience,CHOY,70
+lack of experience,EVER,103
+lack of experience,LHOT,11
+lack of experience,MANA,17
+hypothermia,AMAD,33
+hypothermia,CHOY,50
+hypothermia,EVER,99
+hypothermia,LHOT,19
+hypothermia,MANA,16
+inadequate preparation,AMAD,37
+inadequate preparation,CHOY,57
+inadequate preparation,EVER,81
+inadequate preparation,LHOT,10
+inadequate preparation,MANA,19
+high-altitude illness,AMAD,29
+high-altitude illness,CHOY,65
+high-altitude illness,EVER,68
+high-altitude illness,LHOT,9
+high-altitude illness,MANA,16
+lack of fitness,AMAD,32
+lack of fitness,CHOY,60
+lack of fitness,EVER,67
+lack of fitness,LHOT,13
+lack of fitness,MANA,11

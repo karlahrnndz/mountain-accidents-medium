@@ -10,6 +10,7 @@ CAT_FILEPATH = os.path.join('data', 'input', 'tags.csv')
 ACCIDENT_FILEPATH = os.path.join('data', 'output', 'accident_reports.csv')
 LABELS_FILEPATH = os.path.join('data', 'input', 'tags.csv')
 TAGGED_ACC_FILEPATH = os.path.join('data', 'output', 'tagged_accidents.csv')
+NO_EXPED_FILEPATH = os.path.join('data', 'output', 'no_exped.csv')
 
 # Other
 NO_PEAKS = 5  # Number of peaks to plot
@@ -39,6 +40,11 @@ exp_df['expid'] = exp_df['expid'] + '-' + exp_df['year'].astype('str')
 key_df = exp_df.groupby(by=['peakid'])['expid'].count().reset_index()
 key_df.sort_values(by='expid', ascending=False, inplace=True, ignore_index=True)
 key_df = key_df.iloc[:NO_PEAKS, :]
+
+# Save number of expeditions for plotting
+key_df.rename(columns={'expid': 'no_exped'}, inplace=True)
+key_df.to_csv(NO_EXPED_FILEPATH, index=False)
+
 acc_df = key_df[['peakid']].merge(exp_df[['peakid', 'accidents']], how='left', on='peakid')
 acc_df.dropna(subset=['accidents'], inplace=True, ignore_index=True)
 

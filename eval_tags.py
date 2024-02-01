@@ -14,7 +14,7 @@ ACCIDENT_FILEPATH = os.path.join('data', 'output', 'accident_reports.csv')
 TAGS_FILEPATH = os.path.join('data', 'input', 'tags.csv')
 TAG_MAP_FILEPATH = os.path.join('data', 'input', 'tag_map.json')
 TAG_COUNT_FILEPATH = os.path.join('data', 'output', 'tag_count.csv')
-NO_TAGS_PLOT = 15
+NO_TAGS_PLOT = 10
 PROB_THRESH = 0.7
 
 
@@ -102,7 +102,11 @@ with open(TAG_MAP_FILEPATH, 'r') as json_file:
 tagged_df['new_tag'] = tagged_df['tag'].apply(lambda x: tag_map[x] if x in tag_map else x)
 
 # Look at value count distributions for high-probability tags
+
 filtered_df = tagged_df.query(f'prob >= {PROB_THRESH}')
+filtered_df.drop(columns=['tag', 'prob', 'tag_id', 'accidents'], inplace=True)
+filtered_df.drop_duplicates(inplace=True, ignore_index=True)
+
 plt.figure(figsize=(10, 6))
 filtered_df['new_tag'].value_counts().plot(kind='bar', color='skyblue')
 plt.xlabel('New Tags')
@@ -120,9 +124,9 @@ tagged_df.to_csv(TAGGED_ACC_EXP_FILEPATH, index=False)
 # ----------------------------------------------------------------------------------- #
 
 # Create counts of peakid and new_tag
-top_tag_df = tagged_df['new_tag'].value_counts(ascending=False).reset_index()
+top_tag_df = filtered_df['new_tag'].value_counts(ascending=False).reset_index()
 top_tag_df = top_tag_df.iloc[:NO_TAGS_PLOT, :][['new_tag']]
-tag_count_df = tagged_df.groupby(by='peakid')['new_tag'].value_counts().reset_index()
+tag_count_df = filtered_df.groupby(by='peakid')['new_tag'].value_counts().reset_index()
 tag_count_df = top_tag_df.merge(tag_count_df, how='left', on='new_tag')
 
 # Save exploded dataframe
