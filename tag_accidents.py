@@ -9,18 +9,12 @@ import os
 #                                  Define constants                                   #
 # ----------------------------------------------------------------------------------- #
 
-# Input filepaths
-EXP_FILEPATH = os.path.join('data', 'input', 'expeditions.csv')
-CAT_FILEPATH = os.path.join('data', 'input', 'tags.csv')
-
-# Output filepaths
+# Filepaths
 ACCIDENT_FILEPATH = os.path.join('data', 'output', 'accident_reports.csv')
 TAGS_FILEPATH = os.path.join('data', 'input', 'tags.csv')
 TAGGED_ACC_FILEPATH = os.path.join('data', 'output', 'tagged_accidents.csv')
 
 # Other
-NO_PEAKS = 5  # Number of peaks to plot
-GENERATE_ACCIDENTS = False
 LABEL_THRESHOLD = 0.5
 ORIG_LOG_CONFIG = logging.getLogger().getEffectiveLevel()
 

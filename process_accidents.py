@@ -7,10 +7,8 @@ import os
 #                                  Define constants                                   #
 # ----------------------------------------------------------------------------------- #
 
-# Input filepaths
+# Filepaths
 EXP_FILEPATH = os.path.join('data', 'input', 'expeditions.csv')
-
-# Output filepaths
 ACCIDENT_FILEPATH = os.path.join('data', 'output', 'accident_reports.csv')
 NO_EXPED_FILEPATH = os.path.join('data', 'output', 'no_exped.csv')
 
