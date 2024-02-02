@@ -15,7 +15,7 @@ TAGS_FILEPATH = os.path.join('data', 'input', 'tags.csv')
 TAGGED_ACC_FILEPATH = os.path.join('data', 'output', 'tagged_accidents.csv')
 
 # Other
-LABEL_THRESHOLD = 0.5
+LABEL_THRESHOLD = 0.75
 ORIG_LOG_CONFIG = logging.getLogger().getEffectiveLevel()
 
 
@@ -34,7 +34,7 @@ pd.set_option('display.width', 1000)
 # Load accident descriptions
 acc_df = pd.read_csv(ACCIDENT_FILEPATH)
 
-# Load labels
+# Load tags
 tag_df = pd.read_csv(TAGS_FILEPATH)
 candidate_tags = tag_df.tag.values
 
@@ -47,10 +47,10 @@ def classify_sequence(row):
     """Function for classifying an accident description as described in row['accidents']."""
 
     result = classifier(row['accidents'], candidate_tags, multi_label=True)
-    filtered_labels = [(label, score) for label, score in zip(result['labels'], result['scores'])
-                       if score >= LABEL_THRESHOLD]
+    filtered_tags = [(tag, score) for tag, score in zip(result['labels'], result['scores'])
+                     if score >= LABEL_THRESHOLD]
 
-    return row['acc_id'], filtered_labels
+    return row['acc_id'], filtered_tags
 
 
 if __name__ == "__main__":
