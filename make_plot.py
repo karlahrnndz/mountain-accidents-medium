@@ -29,10 +29,6 @@ pd.set_option('display.width', 1000)
 tagged_df = pd.read_csv(TAGGED_ACC_FIN_FILEPATH)
 tag_count_df = tagged_df.groupby('peakid')['new_tag'].value_counts().reset_index()
 
-# Add peak information
-peak_df = pd.read_csv(PEAK_FILEPATH)
-tag_count_df = tag_count_df.merge(peak_df[['peakid', 'heightm']], how='left', on='peakid')
-
 # Scale count by proportion of expeditions for peak
 exped_ct_df = pd.read_csv(NO_EXPED_FILEPATH)
 tag_count_df = tag_count_df.merge(exped_ct_df, how='left', on='peakid')
@@ -49,6 +45,7 @@ sorted_stream = SortedStream(
     ascending=True,
 )
 # color_palette = ["#fb6207", "#fba981",
+#                  "#ca0203", "#ead8da",
 #                  "#ca0203", "#ead8da",
 #                  "#131220", "#54658b",
 #                  "#f2b202", "#f7dfaf",
