@@ -4,11 +4,9 @@
   "cerebral edema (HACE)": "high-altitude illness",
   "running out of food": "running out of resources",
   "running out of water": "running out of resources",
-  "high winds": "weather-related issues",
   "storms": "weather-related issues",
-  "blizzards": "weather-related issues",
-  "snowfall": "weather-related issues",
-  "blood clot":  "medical issues (not altitude-related)",
-  "heart problems":  "medical issues (not altitude-related)",
-  "broken bones":  "medical issues (not altitude-related)"
+  "blizzard": "weather-related issues",
+  "high wind": "weather-related issues",
+  "lack of experience": "inadequate preparation",
+  "lack of fitness": "inadequate preparation"
 }
