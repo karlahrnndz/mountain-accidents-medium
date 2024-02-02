@@ -2,32 +2,30 @@ tag_id,tag
 0,acute mountain sickness (AMS)
 1,avalanches
 2,blizzards
-3,equipment failure
-4,exhaustion
-5,extreme cold
-6,frostbite
-7,getting lost
-8,glacial crevasses
-9,pulmonary edema (HAPE)
-10,high winds
-11,cerebral edema (HACE)
-12,hypothermia
-13,ice wall
-14,icefall
-15,inadequate preparation
-16,lack of experience
-17,lack of fitness
-18,mental stress
-19,rockfall
-20,running out of food
-21,running out of water
-22,snowfall
-23,steep rock
-24,storms
-25,people falling
-26,stomach problems
-27,heart problems
-29,broken bones
-30,blood clot
-31,respiratory problems
-32,medical issues (not altitude-related)
+3,blood clot
+4,broken bones
+5,cerebral edema (HACE)
+6,equipment failure
+7,exhaustion
+8,extreme cold
+9,frostbite
+10,getting lost
+11,glacial crevasses
+12,heart problems
+13,high winds
+14,hypothermia
+15,icefall
+16,inadequate preparation
+17,lack of experience
+18,lack of fitness
+19,mental stress
+20,people falling
+21,pulmonary edema (HAPE)
+22,respiratory problems
+23,rockfall
+24,running out of food
+25,running out of water
+26,snowfall
+27,steep rock
+28,stomach problems
+29,storms

@@ -53,7 +53,8 @@ def classify_sequence(row):
     """Function for classifying an accident description as described in row['accidents']."""
 
     result = classifier(row['accidents'], candidate_tags, multi_label=True)
-    filtered_labels = [(label, score) for label, score in zip(result['labels'], result['scores']) if score >= LABEL_THRESHOLD]
+    filtered_labels = [(label, score) for label, score in zip(result['labels'], result['scores'])
+                       if score >= LABEL_THRESHOLD]
 
     return row['acc_id'], filtered_labels
 

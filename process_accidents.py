@@ -2,6 +2,11 @@ import pandas as pd
 import logging
 import os
 
+
+# ----------------------------------------------------------------------------------- #
+#                                  Define constants                                   #
+# ----------------------------------------------------------------------------------- #
+
 # Input filepaths
 EXP_FILEPATH = os.path.join('data', 'input', 'expeditions.csv')
 CAT_FILEPATH = os.path.join('data', 'input', 'tags.csv')
@@ -38,11 +43,11 @@ exp_df['expid'] = exp_df['expid'] + '-' + exp_df['year'].astype('str')
 
 # Find peaks with the highest number of expeditions and extract the data
 key_df = exp_df.groupby(by=['peakid'])['expid'].count().reset_index()
-key_df.sort_values(by='expid', ascending=False, inplace=True, ignore_index=True)
+key_df.rename(columns={'expid': 'no_exped'}, inplace=True)
+key_df.sort_values(by='no_exped', ascending=False, inplace=True, ignore_index=True)
 key_df = key_df.iloc[:NO_PEAKS, :]
 
 # Save number of expeditions for plotting
-key_df.rename(columns={'expid': 'no_exped'}, inplace=True)
 key_df.to_csv(NO_EXPED_FILEPATH, index=False)
 
 acc_df = key_df[['peakid']].merge(exp_df[['peakid', 'accidents']], how='left', on='peakid')
