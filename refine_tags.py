@@ -60,12 +60,12 @@ tagged_df = tagged_df.query('tag != "extreme cold"')
 tagged_df = tagged_df.query('accidents != "Nothing"')
 tagged_df.reset_index(inplace=True, drop=True)
 
-# # Look at value count distributions for high-probability tags
-# plt.figure(figsize=(10, 6))
-# tagged_df['tag'].value_counts().plot(kind='bar', color='#ca0203')
-# plt.tight_layout()
-# plt.savefig(os.path.join('data', 'output', 'tag_value_counts.svg'), format='svg')
-# plt.show()
+# Look at value count distributions for high-probability tags
+plt.figure(figsize=(10, 6))
+tagged_df['tag'].value_counts().plot(kind='bar', color='#ca0203')
+plt.tight_layout()
+plt.savefig(os.path.join('data', 'output', 'tag_value_counts.svg'), format='svg')
+plt.show()
 
 # Apply custom maps
 with open(TAG_MAP_FILEPATH, 'r') as json_file:
@@ -76,22 +76,24 @@ tagged_df['new_tag'] = tagged_df['tag'].apply(lambda x: tag_map[x] if x in tag_m
 filtered_df = tagged_df[['new_tag', 'acc_id']]
 filtered_df.drop_duplicates(inplace=True)
 
-# # Look at value count distributions
-# plt.figure(figsize=(10, 6))
-# filtered_df['new_tag'].value_counts().plot(kind='bar', color='#f2b202')
-# plt.tight_layout()
-# plt.savefig(os.path.join('data', 'output', 'updated_tag_value_counts.svg'), format='svg')
-# plt.show()
+# Look at value count distributions
+plt.figure(figsize=(10, 6))
+filtered_df['new_tag'].value_counts().plot(kind='bar', color='#f2b202')
+plt.tight_layout()
+plt.savefig(os.path.join('data', 'output', 'updated_tag_value_counts.svg'), format='svg')
+plt.show()
 
 filtered_df = filtered_df.query('new_tag != "inadequate preparation"')
 filtered_df = filtered_df.query('new_tag != "steep rock"')
+tagged_df = tagged_df.query('new_tag != "inadequate preparation"')
+tagged_df = tagged_df.query('new_tag != "steep rock"')
 
-# # Look at value count distributions
-# plt.figure(figsize=(10, 6))
-# filtered_df['new_tag'].value_counts().plot(kind='bar', color='#01a0e6')
-# plt.tight_layout()
-# plt.savefig(os.path.join('data', 'output', 'final_tag_value_counts.svg'), format='svg')
-# plt.show()
+# Look at value count distributions
+plt.figure(figsize=(10, 6))
+filtered_df['new_tag'].value_counts().plot(kind='bar', color='#01a0e6')
+plt.tight_layout()
+plt.savefig(os.path.join('data', 'output', 'final_tag_value_counts.svg'), format='svg')
+plt.show()
 
 
 # Save exploded dataframe for top 10 tags
