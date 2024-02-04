@@ -1,6 +1,6 @@
 # Mountain Accidents
 
-Code for generating the ["Mountain Accidents"](https://www.karlahernandez.com/art-w-code/tagging-mountaineering-accident-descriptions)
+Code for generating the ["Mountain Accidents"](https://www.karlahernandez.com/art-w-code/tagging-mountaineering-accident-descriptions) visualization.
 
 - The dataset was obtained from [The Himalayan Database](himalayandatabase.com).
 
